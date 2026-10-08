@@ -1,0 +1,75 @@
+const mockVeiculos = [
+  {
+    id: 1,
+    placa: "ABC-1234",
+    modelo: "Fiat Strada",
+    motorista: "João Silva",
+    status: "Apto",
+    ultimaRevisao: "06/10/2026",
+  },
+
+  {
+    id: 2,
+    placa: "DEF-5678",
+    modelo: "Volkswagen Saveiro",
+    motorista: "Carlos Souza",
+    status: "Pendente",
+    ultimaRevisao: "05/10/2026",
+  },
+
+  {
+    id: 3,
+    placa: "GHI-9012",
+    modelo: "Chevrolet Onix",
+    motorista: "Marcos Oliveira",
+    status: "Inapto",
+    ultimaRevisao: "06/10/2026",
+  },
+
+  {
+    id: 4,
+    placa: "JKL-3456",
+    modelo: "Toyota Hilux",
+    motorista: "Pedro Santos",
+    status: "Apto",
+    ultimaRevisao: "06/10/2026",
+  },
+
+  {
+    id: 5,
+    placa: "MNO-7890",
+    modelo: "Fiat Toro",
+    motorista: "Lucas Almeida",
+    status: "Pendente",
+    ultimaRevisao: "04/10/2026",
+  },
+
+  {
+    id: 6,
+    placa: "PQR-1122",
+    modelo: "Renault Master",
+    motorista: "Rafael Costa",
+    status: "Apto",
+    ultimaRevisao: "06/10/2026",
+  },
+
+  {
+    id: 7,
+    placa: "STU-3344",
+    modelo: "Ford Ranger",
+    motorista: "André Lima",
+    status: "Apto",
+    ultimaRevisao: "06/10/2026",
+  },
+
+  {
+    id: 8,
+    placa: "VWX-5566",
+    modelo: "Hyundai HB20",
+    motorista: "Bruno Martins",
+    status: "Pendente",
+    ultimaRevisao: "05/10/2026",
+  },
+];
+
+export default mockVeiculos;
