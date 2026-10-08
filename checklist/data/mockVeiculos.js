@@ -7,7 +7,6 @@ const mockVeiculos = [
     status: "Apto",
     ultimaRevisao: "06/10/2026",
   },
-
   {
     id: 2,
     placa: "DEF-5678",
@@ -16,7 +15,6 @@ const mockVeiculos = [
     status: "Pendente",
     ultimaRevisao: "05/10/2026",
   },
-
   {
     id: 3,
     placa: "GHI-9012",
@@ -25,7 +23,6 @@ const mockVeiculos = [
     status: "Inapto",
     ultimaRevisao: "06/10/2026",
   },
-
   {
     id: 4,
     placa: "JKL-3456",
@@ -34,7 +31,6 @@ const mockVeiculos = [
     status: "Apto",
     ultimaRevisao: "06/10/2026",
   },
-
   {
     id: 5,
     placa: "MNO-7890",
@@ -43,7 +39,6 @@ const mockVeiculos = [
     status: "Pendente",
     ultimaRevisao: "04/10/2026",
   },
-
   {
     id: 6,
     placa: "PQR-1122",
@@ -52,7 +47,6 @@ const mockVeiculos = [
     status: "Apto",
     ultimaRevisao: "06/10/2026",
   },
-
   {
     id: 7,
     placa: "STU-3344",
@@ -61,7 +55,6 @@ const mockVeiculos = [
     status: "Apto",
     ultimaRevisao: "06/10/2026",
   },
-
   {
     id: 8,
     placa: "VWX-5566",
